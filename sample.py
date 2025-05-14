@@ -1,3 +1,4 @@
 def hello():
-    print("Hello Zangoh")
+    for i in range(0,5):
+        print("Hello Zangoh")
 hello()
